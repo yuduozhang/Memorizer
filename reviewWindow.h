@@ -1,4 +1,0 @@
-#ifndef REVIEWWINDOW_H
-#define REVIEWWINDOW_H
-
-#endif // REVIEWWINDOW_H
