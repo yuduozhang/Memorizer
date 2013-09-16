@@ -13,6 +13,7 @@
 #include <map>
 #include <vector>
 #include <time.h>
+#include <stdlib.h>
 
 using namespace std;
 
@@ -298,7 +299,7 @@ public:
                 cout << "\nGood bye! Please remember " 
                      << "to review regularly!\n";
                 save();
-                exit(0);
+                return;
             }
         }
     }
